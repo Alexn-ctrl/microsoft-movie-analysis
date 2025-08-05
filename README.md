@@ -1,13 +1,19 @@
-# Phase 1 Project Templates and Examples
+# Microsoft Movie Studio: Exploratory Data Analysis
 
-This repo contains templates and examples to help you get started with your Phase 1 Project. Each of these is in a separate branch as explained below.
+This project analyzes movie industry data to help Microsoft decide how to enter the movie business.
 
-- The **template-mvp** branch is the template you should use to for your Phase 1 Project. MVP stands for Minimum Viable Product, but this isn't meant in a negative way - if your project uses this template, it will be functional and accessible.
+## Steps:
+- Imported and cleaned datasets from IMDb and Box Office Mojo
+- Conducted EDA using pandas and matplotlib
+- Visualized trends in revenue, genre, and ratings
+- Provided business recommendations based on findings
 
-- The **example-mvp** branch is an example project using the MVP template.
+## Files
+- `Student.ipynb`: Full Jupyter Notebook with code and analysis
 
-Once you've completed your project using the MVP template, you can improve it using the Above and Beyond (AAB) template if you have time:
+## Sources
+- [IMDb](https://www.imdb.com)
+- [Box Office Mojo](https://www.boxofficemojo.com)
 
-- The **template-aab** branch is the AAB template to use to keep improving your project.
-
-- The **example-aab** branch is an example project using the AAB template.
+## How to Navigate
+- Open the notebook in Jupyter or Colab to view full code and outputs
