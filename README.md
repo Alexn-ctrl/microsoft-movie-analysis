@@ -17,3 +17,8 @@ This project analyzes movie industry data to help Microsoft decide how to enter 
 
 ## How to Navigate
 - Open the notebook in Jupyter or Colab to view full code and outputs
+## Presentation
+No formal presentation was submitted for this project.
+## Dashboard
+Tableau was not used in this project.
+
